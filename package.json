@@ -5,8 +5,7 @@
   "main": "server",
   "scripts": {
     "dev": "tsx watch src/server",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "vercel-build": "npx prisma migrate deploy"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
